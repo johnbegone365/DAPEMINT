@@ -27,7 +27,7 @@ function _0x227f(_0x3622d9, _0x2c2f28) {
 	  1,
 	  5
 	],
-	price = 0.25,
+	price = 0.1,
     // don't know what this is
 	_0xec0157 = _0x520788(269),
     // amount is how many NFTs are being sold.
